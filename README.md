@@ -1,12 +1,29 @@
 <h1 align="center"> A to Z Resources for Students </h1>
 
+<h2>MY Information</h2>
 
-If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/HQdeepak) and help it reach more people in the community. 
-
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
-
----
+<table>
+  <tr>
+    <th>Name</th>
+    <th>University</th>
+    <th>Department</th>
+    <th>College</th>
+    <th>Phone Number</th>
+    <th>Social ID</th>
+    <th>Website</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>Sujan Prodhan</td>
+    <td>Rajshahi University</td>
+    <td>CSE (29)</td>
+    <td>Dinajpur Govt. City College</td>
+    <td><a href="tel:+1234567890">Call Me</a></td>
+    <td><a href="https://facebook.com/prodhan24">facebook</a></td>
+    <td><a href="https://prodhan2.blogspot.com">Admission Light</a></td>
+    <td><a href="mailto:ru.cse29@gmail.com">Mail me</a></td>
+  </tr>
+</table>
 
 Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
